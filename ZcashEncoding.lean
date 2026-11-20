@@ -1,3 +1,5 @@
+import ZcashEncoding.Spec.CompactSize
+
 /-!
 # zcash-encoding-lean
 
